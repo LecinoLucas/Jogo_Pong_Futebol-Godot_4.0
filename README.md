@@ -2,7 +2,7 @@
 
 Jogo criado na Godot 4.0
 
-[Link para o Jogo no GitHub]([link-para-o-repositorio-do-jogo-no-github](https://github.com/LecinoLucas/Jogo_Pong_Futebol-Godot_4.0/tree/main/Futebol))
+[Link para o Jogo no GitHub][([[link-para-o-repositorio-do-jogo-no-github](https://github.com/LecinoLucas/Jogo_Pong_Futebol-Godot_4.0/tree/main/Futebol)](https://github.com/LecinoLucas/Jogo_Pong_Futebol-Godot_4.0/tree/main/Futebol))](https://github.com/LecinoLucas/Jogo_Pong_Futebol-Godot_4.0/tree/main/Futebol)
 
 
 
