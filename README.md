@@ -5,9 +5,11 @@ Jogo criado na Godot 4.0
 [Link para o Jogo no GitHub][https://github.com/LecinoLucas/Jogo_Pong_Futebol-Godot_4.0/tree/main/Futebol]
 
 
-**PongFutebol 4.0** é um jogo baseado no clássico Pong com uma reviravolta emocionante: ele ocorre em um campo de futebol! Desafie um amigo ou jogue contra a IA para ver quem pode marcar mais gols e se tornar o mestre do PongFutebol.
+**PongFutebol 4.0** é um jogo baseado no clássico Pong com uma reviravolta emocionante: ele ocorre em um campo de futebol! Desafie um amigo para ver quem pode marcar mais gols e se tornar o mestre do PongFutebol.
 
-No repositorio você encontra tanto o codigo do Godot 4.0 e o executavel para windows do jogo 
+No repositorio você encontra tanto o codigo do Godot 4.0 e o executavel para windows.
+
+
 
 ## Como Jogar
 
@@ -35,7 +37,7 @@ Contribuições são bem-vindas! Se você deseja melhorar o PongFutebol 4.0 ou c
 
 ## Licença
 
-Este jogo é distribuído sob a Licença Apache 2.0. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+Este jogo é distribuído sob a Licença Apache 2.0.
 
 Divirta-se jogando PongFutebol 4.0!
 
